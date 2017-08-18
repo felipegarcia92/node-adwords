@@ -26,7 +26,7 @@
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "request": "^2.81.0",
-    "soap": "^0.20.0",
+    "soap": "git+https://github.com/vpulim/node-soap.git#24180416be9c2b8242a4f472b932e9c560a36e99",
     "xmlbuilder": "^9.0.4"
   },
   "devDependencies": {
